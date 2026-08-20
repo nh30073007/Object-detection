@@ -29,7 +29,7 @@ This project demonstrates how to detect human faces and other objects in real-ti
 - Detection using `.detectMultiScale()` method
 - Drawing bounding boxes around detected objects
 
----
+
 
 ## 🖥️ How it Works
 
@@ -39,7 +39,7 @@ This project demonstrates how to detect human faces and other objects in real-ti
 4. Apply detection model on each frame
 5. Display bounding boxes in real-time
 
----
+
 
 ## 🔬 Sample Output
 
@@ -48,9 +48,9 @@ This project demonstrates how to detect human faces and other objects in real-ti
 - Eyes
 - Full human body (if configured)
 
-*(Screenshots can be added here for visual presentation)*
 
----
+
+
 
 ## 📈 Performance
 
@@ -58,11 +58,11 @@ This project demonstrates how to detect human faces and other objects in real-ti
 - No need for GPU or large deep learning models
 - Works well in controlled lighting environments
 
----
+
 
 ## 📁 File Structure
 
-```bash
+
 ├── object-detection.ipynb
 ├── haarcascade_frontalface_default.xml
 ├── haarcascade_eye.xml
